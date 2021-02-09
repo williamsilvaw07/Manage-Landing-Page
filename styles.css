@@ -459,3 +459,7 @@ form button:hover {
     position: relative;
     top: -60px
 }
+
+.menu_right a{
+    color:white;
+}
